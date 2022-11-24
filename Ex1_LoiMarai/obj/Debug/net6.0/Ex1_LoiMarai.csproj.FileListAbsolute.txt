@@ -1,0 +1,15 @@
+C:\Users\Pie\OneDrive\Desktop\Work\ปี 2\MDT 211\HW13\Ex1_LoiMarai\obj\Debug\net6.0\Ex1_LoiMarai.csproj.AssemblyReference.cache
+C:\Users\Pie\OneDrive\Desktop\Work\ปี 2\MDT 211\HW13\Ex1_LoiMarai\obj\Debug\net6.0\Ex1_LoiMarai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pie\OneDrive\Desktop\Work\ปี 2\MDT 211\HW13\Ex1_LoiMarai\obj\Debug\net6.0\Ex1_LoiMarai.AssemblyInfoInputs.cache
+C:\Users\Pie\OneDrive\Desktop\Work\ปี 2\MDT 211\HW13\Ex1_LoiMarai\obj\Debug\net6.0\Ex1_LoiMarai.AssemblyInfo.cs
+C:\Users\Pie\OneDrive\Desktop\Work\ปี 2\MDT 211\HW13\Ex1_LoiMarai\obj\Debug\net6.0\Ex1_LoiMarai.csproj.CoreCompileInputs.cache
+C:\Users\Pie\OneDrive\Desktop\Work\ปี 2\MDT 211\HW13\Ex1_LoiMarai\bin\Debug\net6.0\Ex1_LoiMarai.exe
+C:\Users\Pie\OneDrive\Desktop\Work\ปี 2\MDT 211\HW13\Ex1_LoiMarai\bin\Debug\net6.0\Ex1_LoiMarai.deps.json
+C:\Users\Pie\OneDrive\Desktop\Work\ปี 2\MDT 211\HW13\Ex1_LoiMarai\bin\Debug\net6.0\Ex1_LoiMarai.runtimeconfig.json
+C:\Users\Pie\OneDrive\Desktop\Work\ปี 2\MDT 211\HW13\Ex1_LoiMarai\bin\Debug\net6.0\Ex1_LoiMarai.dll
+C:\Users\Pie\OneDrive\Desktop\Work\ปี 2\MDT 211\HW13\Ex1_LoiMarai\bin\Debug\net6.0\Ex1_LoiMarai.pdb
+C:\Users\Pie\OneDrive\Desktop\Work\ปี 2\MDT 211\HW13\Ex1_LoiMarai\obj\Debug\net6.0\Ex1_LoiMarai.dll
+C:\Users\Pie\OneDrive\Desktop\Work\ปี 2\MDT 211\HW13\Ex1_LoiMarai\obj\Debug\net6.0\refint\Ex1_LoiMarai.dll
+C:\Users\Pie\OneDrive\Desktop\Work\ปี 2\MDT 211\HW13\Ex1_LoiMarai\obj\Debug\net6.0\Ex1_LoiMarai.pdb
+C:\Users\Pie\OneDrive\Desktop\Work\ปี 2\MDT 211\HW13\Ex1_LoiMarai\obj\Debug\net6.0\Ex1_LoiMarai.genruntimeconfig.cache
+C:\Users\Pie\OneDrive\Desktop\Work\ปี 2\MDT 211\HW13\Ex1_LoiMarai\obj\Debug\net6.0\ref\Ex1_LoiMarai.dll
