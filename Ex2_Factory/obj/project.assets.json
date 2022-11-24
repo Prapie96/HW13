@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pie\\OneDrive\\Desktop\\Code\\C#\\Homework\\HW_Week_13\\Ex2_Factory\\Ex2_Factory.csproj",
+      "projectUniqueName": "C:\\Users\\Pie\\OneDrive\\Desktop\\Work\\ปี 2\\MDT 211\\HW13\\Ex2_Factory\\Ex2_Factory.csproj",
       "projectName": "Ex2_Factory",
-      "projectPath": "C:\\Users\\Pie\\OneDrive\\Desktop\\Code\\C#\\Homework\\HW_Week_13\\Ex2_Factory\\Ex2_Factory.csproj",
+      "projectPath": "C:\\Users\\Pie\\OneDrive\\Desktop\\Work\\ปี 2\\MDT 211\\HW13\\Ex2_Factory\\Ex2_Factory.csproj",
       "packagesPath": "C:\\Users\\Pie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pie\\OneDrive\\Desktop\\Code\\C#\\Homework\\HW_Week_13\\Ex2_Factory\\obj\\",
+      "outputPath": "C:\\Users\\Pie\\OneDrive\\Desktop\\Work\\ปี 2\\MDT 211\\HW13\\Ex2_Factory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pie\\AppData\\Roaming\\NuGet\\NuGet.Config",

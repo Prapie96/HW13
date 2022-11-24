@@ -29,17 +29,17 @@
         ShowSize(PutFruits,FisrtCut,SecondCut);
     }
     static void ShowSize(Queue<int>PutFruits,Queue<int> FisrtCut,Queue<int> SecondCut){
-        for(int a = 0; a < PutFruits.GetLength(); a++)
+        for(int i = 0; i < PutFruits.GetLength(); i++)
         {
-            Console.Write("{0}",PutFruits.Get(a));
+            Console.Write("{0}",PutFruits.Get(i));
         }
-        for(int b = 0; b < FisrtCut.GetLength(); b++)
+        for(int p = 0; p < FisrtCut.GetLength(); p++)
         {
-            Console.Write("{0}", FisrtCut.Get(b));
+            Console.Write("{0}", FisrtCut.Get(p));
         }
-        for(int c = 0; c < SecondCut.GetLength(); c++)
+        for(int m = 0; m < SecondCut.GetLength(); m++)
         {
-            Console.Write("{0}", SecondCut.Get(c));
+            Console.Write("{0}", SecondCut.Get(m));
         }
     }
     static void PushL(ref Queue<int> FisrtCut,ref Queue<int> SecondCut){

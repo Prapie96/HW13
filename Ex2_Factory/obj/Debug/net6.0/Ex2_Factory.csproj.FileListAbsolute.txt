@@ -13,3 +13,18 @@ C:\Users\Pie\OneDrive\Desktop\Code\C#\Homework\HW_Week_13\Ex2_Factory\obj\Debug\
 C:\Users\Pie\OneDrive\Desktop\Code\C#\Homework\HW_Week_13\Ex2_Factory\obj\Debug\net6.0\Ex2_Factory.pdb
 C:\Users\Pie\OneDrive\Desktop\Code\C#\Homework\HW_Week_13\Ex2_Factory\obj\Debug\net6.0\Ex2_Factory.genruntimeconfig.cache
 C:\Users\Pie\OneDrive\Desktop\Code\C#\Homework\HW_Week_13\Ex2_Factory\obj\Debug\net6.0\ref\Ex2_Factory.dll
+C:\Users\Pie\OneDrive\Desktop\Work\ปี 2\MDT 211\HW13\Ex2_Factory\bin\Debug\net6.0\Ex2_Factory.exe
+C:\Users\Pie\OneDrive\Desktop\Work\ปี 2\MDT 211\HW13\Ex2_Factory\bin\Debug\net6.0\Ex2_Factory.deps.json
+C:\Users\Pie\OneDrive\Desktop\Work\ปี 2\MDT 211\HW13\Ex2_Factory\bin\Debug\net6.0\Ex2_Factory.runtimeconfig.json
+C:\Users\Pie\OneDrive\Desktop\Work\ปี 2\MDT 211\HW13\Ex2_Factory\bin\Debug\net6.0\Ex2_Factory.dll
+C:\Users\Pie\OneDrive\Desktop\Work\ปี 2\MDT 211\HW13\Ex2_Factory\bin\Debug\net6.0\Ex2_Factory.pdb
+C:\Users\Pie\OneDrive\Desktop\Work\ปี 2\MDT 211\HW13\Ex2_Factory\obj\Debug\net6.0\Ex2_Factory.csproj.AssemblyReference.cache
+C:\Users\Pie\OneDrive\Desktop\Work\ปี 2\MDT 211\HW13\Ex2_Factory\obj\Debug\net6.0\Ex2_Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pie\OneDrive\Desktop\Work\ปี 2\MDT 211\HW13\Ex2_Factory\obj\Debug\net6.0\Ex2_Factory.AssemblyInfoInputs.cache
+C:\Users\Pie\OneDrive\Desktop\Work\ปี 2\MDT 211\HW13\Ex2_Factory\obj\Debug\net6.0\Ex2_Factory.AssemblyInfo.cs
+C:\Users\Pie\OneDrive\Desktop\Work\ปี 2\MDT 211\HW13\Ex2_Factory\obj\Debug\net6.0\Ex2_Factory.csproj.CoreCompileInputs.cache
+C:\Users\Pie\OneDrive\Desktop\Work\ปี 2\MDT 211\HW13\Ex2_Factory\obj\Debug\net6.0\Ex2_Factory.dll
+C:\Users\Pie\OneDrive\Desktop\Work\ปี 2\MDT 211\HW13\Ex2_Factory\obj\Debug\net6.0\refint\Ex2_Factory.dll
+C:\Users\Pie\OneDrive\Desktop\Work\ปี 2\MDT 211\HW13\Ex2_Factory\obj\Debug\net6.0\Ex2_Factory.pdb
+C:\Users\Pie\OneDrive\Desktop\Work\ปี 2\MDT 211\HW13\Ex2_Factory\obj\Debug\net6.0\Ex2_Factory.genruntimeconfig.cache
+C:\Users\Pie\OneDrive\Desktop\Work\ปี 2\MDT 211\HW13\Ex2_Factory\obj\Debug\net6.0\ref\Ex2_Factory.dll
